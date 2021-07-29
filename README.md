@@ -18,7 +18,7 @@
    <td>📫 How to reach me: https://www.linkedin.com/in/guilherme-krause-19a2a067/ ...   </td>
       </tr>
     <tr>
-   <td>⚡ Fun fact: My creativity only appears with more than one brain ...   </td>
+   <td>⚡ Fun fact: My creativity only appears with more than one brain 😅   </td>
     </tr>
   </tbody>
   </table>
