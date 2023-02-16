@@ -2,9 +2,6 @@
 
 <table>
   <tbody>
-   <tr>
-   <td>🔭 I’m currently working on my home ...   </td>
-     </tr>
     <tr>
    <td>🌱 I’m currently learning HTML, CSS and JS with Angular Framework </td>
     </tr>
