@@ -1,6 +1,6 @@
-## hi.
+### hi.
 
-# welcome to my github page
+#### welcome to my github page
 
-## technologies
+#### technologies
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
