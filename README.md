@@ -2,7 +2,7 @@
 
 #### welcome witcher 🐺
 <html>
-<div style="display: block; margin: 0 auto;">
+<div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ6dGN6dTNwYXljZTllMzB2dHl5cndrcGt6ODVxZmkydzhmOWozZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzWAhzWD3HrJyAcLEM/giphy.gif" />
 </div>
 </html>
